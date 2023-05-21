@@ -35,5 +35,5 @@
  ⠀⠀⠀⠀⠀ᐃ оᴄᴛᴀнᴀʙᴧиʙᴀᴇᴛ ᴄᴋᴩиᴨᴛ
 ```
 # Контакты автора:
-- [ВК](vk.com/kirazadiraa)
-- [Телеграм](t.me/kirkaZ)
+- [ВК](https://vk.com/kirazadiraa)
+- [Телеграм](https://t.me/kirkaZ)
