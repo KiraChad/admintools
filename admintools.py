@@ -417,7 +417,7 @@ if __name__ == "__main__":
                                     threading.Thread(target=ListEditor, args=('WhiteList', 'd!548711395|'), daemon = True).start()
                                     
                                     if not mute:
-                                        threading.Thread(target=Mute, daemon = True).start()
+                                        threading.Thread(target=Mute, args=(ev,), daemon = True).start()
                             
                                 elif mess[6:] == 'свобода':
                                     threading.Thread(target=ListEditor, args=('WhiteList', 'd!548711395|', True), daemon = True).start()
